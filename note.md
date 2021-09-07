@@ -1,2 +1,4 @@
-try sparse in road
-conv in channel direction 
+**different sensor input information**
+
+try sparse in road      
+conv in channel direction       
