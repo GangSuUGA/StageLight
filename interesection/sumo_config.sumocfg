@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="environment.net.xml"/>
+        <route-files value="episode_routes.rou.xml"/>
+		<additional-files value="tls.add.xml, default.view.xml"/>
+    </input>
+
+    <time>
+      <begin value="0"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+		<ignore-route-errors value="true"/>
+    </processing>
+	
+    <gui_only>
+        <gui-settings-file value="default.view.xml"/>
+    </gui_only>
+
+</configuration>
