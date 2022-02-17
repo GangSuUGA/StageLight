@@ -7,6 +7,16 @@ ______________________________________________________________________
 ![image](https://user-images.githubusercontent.com/88390140/154560059-ee3cd8fe-8ed2-494a-954d-3b666edeac6c.png)
 ![image](https://user-images.githubusercontent.com/88390140/154560102-8c0ac79b-f756-4c8e-b977-caa902425a3f.png)
 
+  1. Playing Atari with Deep Reinforcement Learning [[arxiv]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) 
+  2. Deep Reinforcement Learning with Double Q-learning [[arxiv]](https://arxiv.org/abs/1509.06461) 
+  3. Dueling Network Architectures for Deep Reinforcement Learning [[arxiv]](https://arxiv.org/abs/1511.06581) 
+  4. Prioritized Experience Replay [[arxiv]](https://arxiv.org/abs/1511.05952) 
+  5. Noisy Networks for Exploration [[arxiv]](https://arxiv.org/abs/1706.10295) 
+  6. A Distributional Perspective on Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1707.06887.pdf) 
+  7. Rainbow: Combining Improvements in Deep Reinforcement Learning [[arxiv]](https://arxiv.org/abs/1710.02298) 
+  8. Distributional Reinforcement Learning with Quantile Regression [[arxiv]](https://arxiv.org/pdf/1710.10044.pdf) 
+  9. Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  [[arxiv]](https://arxiv.org/abs/1604.06057) 
+  10. Neural Episodic Control [[arxiv]](https://arxiv.org/pdf/1703.01988.pdf) 
 
 ### Rainbow Code Reference: 
 - https://github.com/Curt-Park/rainbow-is-all-you-need/blob/master/08.rainbow.ipynb
