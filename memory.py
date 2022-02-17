@@ -1,3 +1,5 @@
+#### Copied from https://github.com/abderraouf2che/RL-Traffic-Signal-Control/blob/main/Memory.py  #####
+
 import random
 import numpy as np
 
