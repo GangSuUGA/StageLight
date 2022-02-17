@@ -15,6 +15,9 @@ ______________________________________________________________________
   6. A Distributional Perspective on Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1707.06887.pdf) 
   7. Rainbow: Combining Improvements in Deep Reinforcement Learning [[arxiv]](https://arxiv.org/abs/1710.02298) 
 
+### Original Code: 
+- https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control 
+
 ### Rainbow Code Reference: 
 - https://github.com/Curt-Park/rainbow-is-all-you-need/blob/master/08.rainbow.ipynb
 - https://github.com/deligentfool/dqn_zoo/blob/master/Rainbow%20DQN/rainbow_dqn.py
