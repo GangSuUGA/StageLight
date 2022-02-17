@@ -14,9 +14,6 @@ ______________________________________________________________________
   5. Noisy Networks for Exploration [[arxiv]](https://arxiv.org/abs/1706.10295) 
   6. A Distributional Perspective on Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1707.06887.pdf) 
   7. Rainbow: Combining Improvements in Deep Reinforcement Learning [[arxiv]](https://arxiv.org/abs/1710.02298) 
-  8. Distributional Reinforcement Learning with Quantile Regression [[arxiv]](https://arxiv.org/pdf/1710.10044.pdf) 
-  9. Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  [[arxiv]](https://arxiv.org/abs/1604.06057) 
-  10. Neural Episodic Control [[arxiv]](https://arxiv.org/pdf/1703.01988.pdf) 
 
 ### Rainbow Code Reference: 
 - https://github.com/Curt-Park/rainbow-is-all-you-need/blob/master/08.rainbow.ipynb
