@@ -26,5 +26,5 @@ ______________________________________________________________________
 - https://github.com/deligentfool/dqn_zoo/blob/master/Rainbow%20DQN/rainbow_dqn.py
 - https://github.com/higgsfield/RL-Adventure/blob/master/7.rainbow%20dqn.ipynb
 - https://github.com/ashutoshtiwari13/DeepQNetwork-Hub/blob/master/Rainbow_DQN.ipynb
-- https://github.com/qfettes/DeepRL-Tutorials/blob/master/07.Categorical-DQN.ipynb 
+- https://github.com/qfettes/DeepRL-Tutorials/blob/master/08.Rainbow.ipynb
 
