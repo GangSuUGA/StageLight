@@ -2,7 +2,7 @@
 
 - This work corresponds to my Paper "[**Deep Reinforcement Learning of Traffic Signal Control, a Staged Multiscale Learning Approach**](#)".
 - Using PyTorch and SUMO (Simulation of Urban MObility) with the TraCI API. 
-
+- Converge faster! 
 https://user-images.githubusercontent.com/88390140/154565385-588ac05e-b1de-425b-97a8-10e1ba700d52.mp4 
 ______________________________________________________________________
 ## [**Rainbow Paper**](https://arxiv.org/pdf/1710.02298.pdf) 
